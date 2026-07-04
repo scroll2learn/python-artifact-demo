@@ -21,7 +21,7 @@ jobs:
           python-version:  '3.11'
 
       - name: check python version
-        run: python --version
+        run: python3 --version
 
       - name: Run python program
         run: python app.py
