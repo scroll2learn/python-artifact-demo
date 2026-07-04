@@ -9,7 +9,7 @@ on:
 
 jobs:
   Create-Artifact:
-    runs-on: ububuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
