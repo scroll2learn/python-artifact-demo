@@ -1,6 +1,6 @@
 from datetime import datetime
 
-print("Python artifact demo")
+print("Python artifact demo.")
 
 with open("result.txt","w") as file:
   file.write("Hello from GitHub\n")
